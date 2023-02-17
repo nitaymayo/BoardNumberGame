@@ -2,8 +2,8 @@
 
 Java based android aplication I wrote in android-studio<br>
 
-the game is a scrambled image that the player need to organize to be as the original<br>
-
+An Android game in Java using Android Studio that presents players with a scrambled board of tiles, each with a number on it. The objective of the game is to arrange the numbers in order, which is a simple yet challenging task that requires players to think strategically and use their problem-solving skills. The game provides an engaging and interactive experience, making it a great way to pass the time while exercising the brain.
+<br>
 The main code files of the project can be found in this link -<br> https://github.com/nitaymayo/My-Portfolio/tree/main/JAVA/BoardNumberGame/app/src/main/java/com/example/boardnumbergame
 
 <h3>Preview</h3>
