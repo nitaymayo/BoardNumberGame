@@ -6,8 +6,6 @@ An Android game in Java using Android Studio that presents players with a scramb
 <br><br>
 The main code files of the project can be found in this link -<br> https://github.com/nitaymayo/My-Portfolio/tree/main/JAVA/BoardNumberGame/app/src/main/java/com/example/boardnumbergame
 
-<br><br>
-Prroject's Webpage here: file:///home/nitay/Documents/nitaymayo.github.io/BoardNumberGame.html
 
 <h3>Preview</h3>
 <div style="display:flex;">
