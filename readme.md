@@ -4,8 +4,13 @@ Java based android aplication I wrote in android-studio<br>
 
 An Android game in Java using Android Studio that presents players with a scrambled board of tiles, each with a number on it. The objective of the game is to arrange the numbers in order, which is a simple yet challenging task that requires players to think strategically and use their problem-solving skills. The game provides an engaging and interactive experience, making it a great way to pass the time while exercising the brain.
 <br><br>
-The main code files of the project can be found in this link -<br> https://github.com/nitaymayo/BoardNumberGame/tree/master/app/src/main/java/com/example/boardnumbergame
+The main code files of the project can be found in this link -
+<a href="https://github.com/nitaymayo/BoardNumberGame/tree/master/app/src/main/java/com/example/boardnumbergame">Here</a>
 
+<br><br>
+
+Try the game on your android phone!
+APK Download Link: <a href="https://github.com/nitaymayo/BoardNumberGame/blob/master/BoardNumberGame.apk">Download</a>
 
 <h3>Preview</h3>
 <div style="display:flex;">
