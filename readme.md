@@ -10,7 +10,7 @@ The main code files of the project can be found in this link -
 <br><br>
 
 Try the game on your android phone!
-APK Download Link: <a href="https://github.com/nitaymayo/BoardNumberGame/blob/master/BoardNumberGame.apk">Download</a>
+APK Download Link: <a href="https://github.com/nitaymayo/BoardNumberGame/raw/master/BoardNumberGame.apk">Download</a>
 
 <h3>Preview</h3>
 <div style="display:flex;">
